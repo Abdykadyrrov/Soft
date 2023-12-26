@@ -1,48 +1,54 @@
-Title: Student Attendance System
+![image](https://github.com/Abdykadyrrov/Soft/assets/103096307/d54a3833-b1b3-4b77-9129-648296ab894d)
 
-Description:
 
-Create a simple Student Attendance System using C# and Windows Forms. The system should allow teachers to record student attendance for each class.
+Общие требования:
+Разработка настольного приложения для учёта посещаемости студентов.
+Поддержка операционной системы Windows.
+Интуитивно понятный графический интерфейс пользователя.
+Функциональные требования:
+Управление Списком Студентов:
 
-Key Features:
+Добавление новых студентов в список.
+Удаление студентов из списка.
+Редактирование информации о студентах.
+Учёт Посещаемости:
 
-Login System:
+Возможность отметить студента как присутствующего или отсутствующего.
+Автоматический подсчёт общего числа студентов, а также присутствующих и отсутствующих.
+Сохранение и Загрузка Данных:
 
-The system should have a login screen for teachers.
-Each teacher should have a unique username and password.
-After successful login, the teacher should be directed to the main dashboard.
-Dashboard:
+Возможность сохранения текущего состояния списка и посещаемости.
+Загрузка ранее сохранённых данных.
+Генерация Отчётов:
 
-The dashboard should display options for taking attendance, viewing attendance history, and logging out.
-Take Attendance:
+Возможность генерации отчётов по датам с информацией о посещаемости.
+Экспорт отчётов в популярные форматы данных (например, CSV, PDF).
+Нефункциональные требования:
+Производительность:
 
-Teachers should be able to select a class and mark attendance for each student.
-Attendance can be marked as 'Present' or 'Absent' for each student.
-Save the attendance records for future reference.
-View Attendance History:
+Приложение должно корректно работать при одновременном учёте до 1000 студентов.
+Надёжность:
 
-Teachers should be able to view the attendance history for a specific class or student.
-Display attendance records with dates and attendance status.
-Database Integration:
+Система должна обеспечивать корректную работу без потери данных в случае сбоев.
+Безопасность:
 
-Use a local database (e.g., SQLite or SQL Server Compact) to store student information, class details, and attendance records.
-Ensure proper database connections and handle CRUD operations.
-User-Friendly Interface:
+Доступ к данным приложения должен быть защищён и требовать аутентификации пользователя.
+Требования к разработке:
+Язык программирования:
 
-Design a clean and user-friendly interface using Windows Forms.
-Implement proper validation to handle user inputs.
-Reports:
+C# и Windows Forms для реализации графического интерфейса пользователя.
+Инструменты и Среды:
 
-Provide an option to generate simple reports, such as class-wise attendance summaries.
-Optional Enhancements:
+Microsoft Visual Studio для разработки.
+Система контроля версий (например, Git) для отслеживания изменений в коде.
+Тестирование:
 
-Implement user roles (e.g., admin and teacher).
-Add the ability to edit student details.
-Enhance the user interface with additional graphics and styling.
-Technologies:
-
-C# Windows Forms for the application.
-Use a suitable database for data storage.
-Submission:
-
-Submit the project with complete source code and necessary documentation.
+Проведение юнит-тестирования ключевых функциональных частей.
+Интеграционное тестирование для проверки корректности взаимодействия компонентов приложения.
+Этапы разработки:
+Анализ требований и составление детального технического задания.
+Проектирование архитектуры приложения и пользовательского интерфейса.
+Реализация функционала в соответствии с техническим заданием.
+Тестирование и отладка приложения.
+Подготовка документации для пользователя.
+Развертывание и поддержка приложения.

@@ -1,0 +1,16 @@
+C:\Users\abdyk\source\repos\Attendance\Attendance\bin\Debug\net6.0-windows\Attendance.exe
+C:\Users\abdyk\source\repos\Attendance\Attendance\bin\Debug\net6.0-windows\Attendance.deps.json
+C:\Users\abdyk\source\repos\Attendance\Attendance\bin\Debug\net6.0-windows\Attendance.runtimeconfig.json
+C:\Users\abdyk\source\repos\Attendance\Attendance\bin\Debug\net6.0-windows\Attendance.dll
+C:\Users\abdyk\source\repos\Attendance\Attendance\bin\Debug\net6.0-windows\Attendance.pdb
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.Form1.resources
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.csproj.GenerateResource.cache
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.AssemblyInfoInputs.cache
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.AssemblyInfo.cs
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.dll
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\refint\Attendance.dll
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.pdb
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\Attendance.genruntimeconfig.cache
+C:\Users\abdyk\source\repos\Attendance\Attendance\obj\Debug\net6.0-windows\ref\Attendance.dll
